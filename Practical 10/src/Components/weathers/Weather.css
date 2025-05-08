@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.this{
+    width: 100vw;
+    height: 100vh;
+    background-image: url(https://img.freepik.com/free-vector/realistic-background-monsoon-season_23-2150428848.jpg?t=st=1745498630~exp=1745502230~hmac=9f3c5506ed935af561868fcbef6d0d285b874f4e263d47e6f648596203296e1d&w=996);
+    background-position: center;
+    background-size: cover;    
+}
